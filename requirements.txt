@@ -4,6 +4,6 @@ pydantic
 requests
 python-multipart
 
-uagents
+git+https://github.com/fetchai/uAgents.git@main
 pydantic<2
 httpx
