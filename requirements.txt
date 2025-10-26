@@ -4,6 +4,6 @@ pydantic
 requests
 python-multipart
 
-fetchai-uagents
+uagents
 pydantic<2
 httpx
